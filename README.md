@@ -18,4 +18,4 @@
   
 </div>
 
-![Snake animation](https://github.com/Maicon-Lara/Maicon_lara/output/github-contribution-grid-snake.svg)
+
