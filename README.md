@@ -18,6 +18,6 @@
   
 </div>
 ##
-
+<div>
 <img src="https://github.com/Maicon-Lara/Maicon-Lara/blob/main/snake.svg" alt="Snake animation" />
-
+</div>
