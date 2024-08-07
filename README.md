@@ -17,5 +17,7 @@
   <a href="https://www.linkedin.com/in/maicon-douglas-frança-de-lara-671188177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+##
 
+<img src="https://github.com/Maicon-Lara/Maicon-Lara/blob/main/snake.svg" alt="Snake animation" />
 
